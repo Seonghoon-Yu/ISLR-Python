@@ -1,4 +1,6 @@
 # ISLR-Pyhon
+![image](https://user-images.githubusercontent.com/75726938/116864745-4a0bb680-ac43-11eb-82f1-465bbb2189ec.png)
+
 ISLR(An Introduction to Statistical Learning) 공부 과정을 기록하는 저장소 입니다.
 
 파이썬 코드는 제가 구현한 것이 아닙니다.
