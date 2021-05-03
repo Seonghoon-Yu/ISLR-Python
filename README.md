@@ -16,4 +16,4 @@ ISLR(An Introduction to Statistical Learning) 공부 과정을 기록하는 저�
 https://deep-learning-study.tistory.com/
 
 ---
-- Chapter 3. Linear Regression - [Google Colab]()[Blog]()
+- Chapter 3. Linear Regression - [Google Colab](https://github.com/Seonghoon-Yu/ISLR-Python/blob/main/Chapter_3_Linear_Regression.ipynb) / [Blog]()
