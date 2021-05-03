@@ -1,4 +1,4 @@
-# ISLR-PyThon
+# ISLR-Pyhon
 ISLR(An Introduction to Statistical Learning) 공부 과정을 기록하는 저장소 입니다.
 
 파이썬 코드는 제가 구현한 것이 아닙니다.
