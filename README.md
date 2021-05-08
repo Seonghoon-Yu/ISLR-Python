@@ -19,3 +19,5 @@ https://deep-learning-study.tistory.com/
 
 ---
 - Chapter 3. Linear Regression - [Google Colab](https://github.com/Seonghoon-Yu/ISLR-Python/blob/main/Chapter_3_Linear_Regression.ipynb)
+
+- Chapter 4. Classification - [Google Colab](https://github.com/Seonghoon-Yu/ISLR-Python/blob/main/Chapter_4_Classification.ipynb)
